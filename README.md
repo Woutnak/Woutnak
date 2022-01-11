@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2><img src="/img/hello-cute.gif" height="100px" width="100px">I'm Woutnak! </h2>  
+                                
+   <img src="/img/1.gif">
 
-<!--
-**Woutnak/Woutnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Student at CNTEMAD:woman_student:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>:point_right:A litle more about me...</h3>
+
+``` python
+Woutnak = {
+	pronous:her,she
+	code:HTML,CSS,JavaScript,Python,PHP
+	Tool_achitecture:Bootstrap
+}
+
+Challange"I'm doing the javaScript roadmap to become a fullstack"
+```
+
+<img src="/img/cute-kitty.gif" height="50px" width="50px"> "I love meeting more people,you're welcome on my github account"
+                          
+   <img src="/img/see-you-soon.gif">
