@@ -1,6 +1,6 @@
 <h2><img src="/img/hello-cute.gif" height="100px" width="100px">I'm Woutnak! </h2>  
                                 
-   <img src="/img/1.gif">
+ <div align="right">  <img src="/img/1.gif" height="500px" width="500px> </div>
 
 
 Student at CNTEMAD:woman_student:
@@ -19,4 +19,4 @@ Challange"I'm doing the javaScript roadmap to become a fullstack"
 
 <img src="/img/cute-kitty.gif" height="50px" width="50px"> "I love meeting more people,you're welcome on my github account"
                           
-   <img src="/img/see-you-soon.gif">
+ <div align="center">  <img src="/img/see-you-soon.gif"></div>
