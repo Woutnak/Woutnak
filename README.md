@@ -1,6 +1,6 @@
 <h2><img src="/img/hello-cute.gif" height="100px" width="100px">I'm Woutnak! </h2>  
                                 
-  <img src="/img/1.gif" height="350px" width="350px>
+  <img src="/img/1.gif" height="350px" width="350px">
 
 
 Student at CNTEMAD:woman_student:
