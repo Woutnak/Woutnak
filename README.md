@@ -168,8 +168,6 @@ I'm always interested in learning, building and collaborating on meaningful digi
 
 **LinkedIn:** https://www.linkedin.com/in/kanto-ramanandraibe/
 
-**Portfolio:** 
-
 **Email:** kantoramanandraibe01@gmail.com
 
 ---
