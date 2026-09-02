@@ -1,4 +1,4 @@
-# Hi, I'm WOUT
+# I'm WOUTNAK  
 
 ### IT Project Assistant · Software Engineering · Databases · Product & Project Management
 
@@ -18,7 +18,6 @@ I enjoy understanding problems, structuring solutions and turning ideas into use
 * Interested in **Software Engineering, Product Management & Business Analysis**
 * Currently strengthening my practical development skills
 * Building and experimenting with digital products
-* Interested in digital entrepreneurship and freelance work
 
 ---
 
