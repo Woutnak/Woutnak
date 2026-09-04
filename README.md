@@ -78,8 +78,12 @@ I enjoy understanding problems, structuring solutions and turning ideas into use
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 ---
-GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=WOUTNAK&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOUTNAK&layout=compact&hide_border=true" /> </p>
+##GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WOUTNAK&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WOUTNAK&layout=compact&hide_border=true)
+
 ---
 
 ## What I'm Looking For
